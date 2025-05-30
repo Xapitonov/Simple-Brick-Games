@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="false">Simple Brick Games</string>
+    <string name="app_version">Версия</string>
+    <string name="cancel">Отмена</string>
+    <string name="confirm">Подтвердить</string>
+    <string name="press_again">Нажмите еще раз для выхода</string>
+    <string name="translations">Переводы</string>
+
+    <!--UI-->
+    <string name="ui_close">Закрыть</string>
+    <string name="ui_reset">Сбросить</string>
+    <string name="ui_pause">Перерыв</string>
+
+    <string name="ui_highscore">Рекорд:</string>
+    <string name="ui_score">Очки:</string>
+
+    <string name="ui_level">Уровень:</string>
+    <string name="ui_speed">Скорость:</string>
+
+    <!--Colours-->
+    <string name="colour_blue">Синий</string>
+    <string name="colour_green">Зеленый</string>
+    <string name="colour_red">Красный</string>
+    <string name="colour_yellow">Желтый</string>
+    <string name="colour_gray">Серый</string>
+
+    <!--Settings-->
+    <string name="Settings">Настройки</string>
+    <string name="settings_orientation">Ориентация экрана</string>
+    <string name="settingsInput">Ввод</string>
+    <string name="Settings_textures">Текстуры</string>
+    <string name="Settings_backgroundcolour">Цвет фона</string>
+    <string name="Settings_button">Цвет кнопки</string>
+    <string name="colour">цвет</string>
+    <string name="Settings_sound">Включить звук в игре</string>
+    <string name="changed_to">изменено на</string>
+    <string name="number">Номер</string>
+    <string name="is_now">сейчас</string>
+    <string name="settingsStatusBar">Скрыть панель уведомлений</string>
+    <string name="settingsBackPress">Подтвердить закрытие игры</string>
+    <string name="settingsBackPressDescription">Нажмите кнопку "Назад" дважды для закрытия игры</string>
+    <string name="settingsCustomize">Настроить</string>
+    <string name="settingsOtherSettings">Другие настройки</string>
+    <string name="settingsVibrationStrength">Сила вибрации</string>
+    <string name="prefKeyTextures" translatable="false">prefKeyTextures</string>
+    <string name="prefKeyBackground" translatable="false">prefKeyBackground</string>
+    <string name="prefKeyButtons" translatable="false">prefKeyButtons</string>
+    <string name="prefKeyVibrationStrength" translatable="false">prefKeyVibrationStrength</string>
+    <string name="prefKeySound" translatable="false">prefKeySound</string>
+    <string name="prefKeyConfirmClosing" translatable="false">prefKeyConfirmClosing</string>
+    <string name="prefKeyHideStatusBar" translatable="false">prefKeyHideStatusBar</string>
+    <string name="prefKeyEnableKeyboardInput" translatable="false">prefKeyEnableKeyboardInput</string>
+    <string name="pref_key_language" translatable="false">pref_key_language</string>
+    <string name="prefKeyKeyboardInputMapping" translatable="false">prefKeyKeyboardInput</string>
+    <string name="pref_key_orientation" translatable="false">pref_key_orientation</string>
+    <string name="settingsEnabledKeyboardInputTitle">Включить ввод с клавиатуры</string>
+    <string name="settingsEnabledKeyboardInputText">Скрыть программные кнопки и включить ввод с помощью физической клавиатуры</string>
+    <string name="settingsKeyboardInputMappingTitle">Назначение клавиш</string>
+    <string name="settingsKeyboardInputMappingText">Выберите другие клавиши для ввода</string>
+
+    <string name="settings_change_language">Сменить язык</string>
+
+    <!--About-->
+    <string name="About">О видеоигре</string>
+    <string name="About_Text1">разработано Тобиасом Билефельдом</string>
+    <string name="About_Text2">спасибо за игру :)</string>
+    <string name="About_Text3">Звуки созданы с помощью:</string>
+    <string name="About_Text4" translatable="false">www.pulseboy.com</string>
+    <string name="About_Text5" translatable="false">www.bfxr.net</string>
+
+    <string name="pulseboy" translatable="false">PulseBoy</string>
+    <string name="and">и</string>
+    <string name="credits_to_roger_hicks_and_matt_white">благодарности: Роджеру Хиксу и Мэтту Уайту</string>
+    <string name="bfxr" translatable="false">BFXR</string>
+    <string name="under_cc_by_3_0_license"><a href="https://creativecommons.org/licenses/by/3.0/us/"> по лицензии CC-BY-3.0 </a></string>
+    <string name="under_apache_licence_2_0"><a href="http://www.apache.org/licenses/LICENSE-2.0.html"> по лицензии Apache 2.0 </a></string>
+    <string name="off">Выключено</string>
+
+    <string name="about_tab_1">Информация</string>
+    <string name="about_tab_2">Лицензия</string>
+    <string name="about_tab_3">Журнал изменений</string>
+    <string name="about_build_date">Дата сборки</string>
+    <string name="about_programm_code_text">Исходный код доступен по адресу:</string>
+    <string name="about_programm_code_text2" translatable="false"><a href="https://github.com/TobiasBielefeld/Simple-Brick-Games">GitHub</a></string>
+
+    <string name="about_translations">Переводы</string>
+    <string name="about_translations_esperanto_polish">Эсперанто и Польский: Пользователь GitHub verdulo</string>
+    <string name="about_translations_french">Французский: Пользователь GitHub xinxinxinxinxin</string>
+    <string name="about_translations_portuguese">Португальский: Пользователь GitHub jeisoncp</string>
+
+    <!--KeyboardDialog-->
+    <string name="keyboardDialog_warning">В данный момент вы не можете выбрать специальные клавиши, такие как Ввод (Enter), Пробел (Space) или Выход (Escape) для ввода, 
+        так как они используются для навигации в интерфейсе Android.</string>
+    <string name="keyboardDialog_title1">Кнопки действия</string>
+    <string name="keyboardDialog_title2">Меню кнопки</string>
+    <string name="keyboardDialogLeft">Влево</string>
+    <string name="keyboardDialogRight">Вправо</string>
+    <string name="keyboardDialogUp">Вверх</string>
+    <string name="keyboardDialogDown">Вниз</string>
+    <string name="keyboardDialogAction">Действие</string>
+
+</resources>
