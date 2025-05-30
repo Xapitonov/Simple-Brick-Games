@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_language_titles">
+        <item>Язык по умолчанию</item>
+        <item>Английский</item>
+        <item>Эсперанто</item>
+        <item>Французский</item>
+        <item>Немецкий</item>
+        <item>Польский</item>
+        <item>Португальский</item>
+        <item>Русский</item>
+    </string-array>
+
+    <string-array name="pref_language_values">
+        <item>default</item>
+        <item>en</item>
+        <item>eo</item>
+        <item>fr</item>
+        <item>de</item>
+        <item>pl</item>
+        <item>pt</item>
+        <item>ru</item>
+    </string-array>
+
+    <string-array name="pref_orientation_values" translatable="false">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="pref_orientation_titles">
+        <item>Как в системе</item>
+        <item>Портретный</item>
+        <item>Ландшафтный</item>
+        <item>Перевернутый ландшафтный</item>
+    </string-array>
+</resources>
